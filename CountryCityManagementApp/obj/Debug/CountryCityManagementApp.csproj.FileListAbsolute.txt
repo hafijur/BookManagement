@@ -1,0 +1,12 @@
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.dll.config
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.dll
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.pdb
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.csprojResolveAssemblyReference.cache
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.dll
+G:\it bangla & diit & bitm\bitm\project\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.pdb
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.dll.config
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.dll
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\bin\CountryCityManagementApp.pdb
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.dll
+C:\Users\hafijur\Desktop\CountryCityManagementApp\CountryCityManagementApp\obj\Debug\CountryCityManagementApp.pdb
